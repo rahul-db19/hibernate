@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="selection" value="company2"/>
+		<item key="wrap" value="true"/>
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<list key="findhistory">
+			<item value="company1"/>
+			<item value="student1"/>
+			<item value="country1"/>
+			<item value="state2"/>
+			<item value="state1"/>
+			<item value="sim1"/>
+			<item value="mobile1"/>
+			<item value="Customer"/>
+			<item value="course"/>
+			<item value="Course"/>
+			<item value="developer1"/>
+			<item value="Student"/>
+			<item value="student"/>
+			<item value=""/>
+		</list>
+		<list key="replacehistory">
+			<item value="company2"/>
+			<item value="student3"/>
+			<item value="student2"/>
+			<item value="country2"/>
+			<item value="state4"/>
+			<item value="state3"/>
+			<item value="state2"/>
+			<item value="sim4"/>
+			<item value="sim3"/>
+			<item value="sim2"/>
+			<item value="mobile2"/>
+			<item value="Aadharcard"/>
+			<item value="developer"/>
+			<item value="Developer"/>
+			<item value="developer5"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.GotoLineAction$GotoLineDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="646"/>
+		<item key="DIALOG_Y_ORIGIN" value="354"/>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="762"/>
+		<item key="DIALOG_Y_ORIGIN" value="222"/>
+		<item key="DIALOG_WIDTH" value="414"/>
+		<item key="DIALOG_HEIGHT" value="454"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+</section>
